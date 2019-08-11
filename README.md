@@ -23,11 +23,10 @@ https://github.com/sshyran/sortable-table
 
 
 
-### d3.js
-Bring data to life with SVG, Canvas and HTML.
+### ordered-columns
+Polymer Web Component that builds vertically ordered columns (timelines) from arbitrary DOM content
 
-https://github.com/sshyran/d3
-
+https://github.com/sshyran/ordered-columns
 
 
 
@@ -39,6 +38,10 @@ https://github.com/sshyran/d3-geomap
 
 
 
+### d3.js
+Bring data to life with SVG, Canvas and HTML.
+
+https://github.com/sshyran/d3
 
 
 
