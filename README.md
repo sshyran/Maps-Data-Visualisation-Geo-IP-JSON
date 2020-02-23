@@ -44,8 +44,9 @@ Bring data to life with SVG, Canvas and HTML.
 https://github.com/sshyran/d3
 
 
+https://www.hotosm.org/tools-and-data
 
-
+https://learnosm.org/en/
 
 
 
