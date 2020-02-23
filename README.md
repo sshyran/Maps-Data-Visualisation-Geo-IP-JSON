@@ -48,6 +48,7 @@ https://www.hotosm.org/tools-and-data
 
 https://learnosm.org/en/
 
+mapfugees.wordpress.com
 
 
 
